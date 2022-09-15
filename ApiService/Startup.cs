@@ -39,13 +39,13 @@ namespace ApiService
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "Betalen API",
-                    Description = "Betalen Business API",
+                    Title = "Parvathi API",
+                    Description = "Parvathi Business API",
                     TermsOfService = new Uri("https://betalen.in"),
                     Contact = new OpenApiContact
                     {
-                        Name = "Durga Prasad Baghuthu",
-                        Email = "dbaghuthu@betalen.in",
+                        Name = "Parvathi Chennuri",
+                        Email = "parvathichennuri@yahoo.com",
                         Url = new Uri("https://twitter.com/betalen"),
                     },
                     License = new OpenApiLicense
